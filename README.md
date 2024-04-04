@@ -29,3 +29,9 @@
 # reportes
 
 ![](https://github.com/DanielRodriguez9/Software-ibook/blob/master/Captura%20de%20pantalla%20(608).png)
+
+
+
+# reportes pantalla completa
+
+![](https://github.com/DanielRodriguez9/Software-ibook/blob/master/Captura%20de%20pantalla%20(609).png)
