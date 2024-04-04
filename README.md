@@ -25,3 +25,7 @@
 #libros pantalla completa
 
 ![](https://github.com/DanielRodriguez9/Software-ibook/blob/master/Captura%20de%20pantalla%20(607).png)
+
+# reportes
+
+![](https://github.com/DanielRodriguez9/Software-ibook/blob/master/Captura%20de%20pantalla%20(608).png)
