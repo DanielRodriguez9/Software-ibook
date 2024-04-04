@@ -17,3 +17,7 @@
 # imagen 5
 
 ![](https://github.com/DanielRodriguez9/Software-ibook/blob/master/Captura%20de%20pantalla%20(604).png)
+
+#imagen 6 
+
+![](https://github.com/DanielRodriguez9/Software-ibook/blob/master/Captura%20de%20pantalla%20(606).png)
